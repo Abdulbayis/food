@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
     // Get.find<PopularProductControllers>().getPopularProductList();
     return MaterialApp(
       debugShowCheckedModeBanner:false,
-      title: 'Flutter Demo',
+      title: 'Flutter cop',
       theme: ThemeData(
         
          primarySwatch: Colors.blue,
